@@ -1,5 +1,6 @@
 # concept
 
+
 # Lucas
 can you help me conceptualize a "fantasy game" based on ideas we've brainstormed for a hypothetical ai-assisted game dev passion project? i'm thinking of a "Risk-of-Rain-2-like" "Outer-Wilds-like" rogue-like game that has the general anime aesthetic and clean souls-like playstyle of games like Wuthering Waves, Arknights Endfield, or the like, with heavy procedural generation features. the general concept here is roughly this: the game might have procedurally generated multi-run storylines, which is to say a full campaign procedurally generated that consists of multiple runs, wherein which the player gradually reveals the plot and secrets required to "unlock" subsequent runs via essential mechanic knowledge (a loop similar to Outer Wilds). the runs themselves might be something like 20-40 minutes, possibly pre-timed like Outer Wilds. the runs will have a gameplay loop similar to Risk of Rain 2, in which each run will have a unique improvised build based on item drops and choices throughout the run. can we start here? i was thinking there are a number of ways to go about this, for instance in modding an existing game with a very robust world map that could be re-purposed to facilitate multiple run templates
 
